@@ -4,8 +4,6 @@ Welcome to my GitHub profile :)
 I'm a Big Data and AI master's student at the Universitat de Barcelona. SOON-TO-BE DATA SCIENTIST
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Anomaly detection to be applied on financial data from the EDGAR SEC Database.
 - 🌱 I’m currently learning about Deep Learning with Pytorch and Tensorflow Keras API
 - 📫 How to reach me: trindadezemaria@gmail.com
