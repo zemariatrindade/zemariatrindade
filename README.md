@@ -22,4 +22,4 @@ In this project, I assisted Outbound Sales teams in Travel Agencies by identifyi
 
 - Detecting Covid in X-rays images:
   
-Applied supervised ML techniques using TensorFlow Keras API NN to detect covid in 224x224 x-ray chest images.
+Built a COVID-19 classifier out of chest x-ray images and compared results using different models (Sklearn RandomForestClassifier and TensorFlow Keras API).
