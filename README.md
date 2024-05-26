@@ -22,6 +22,7 @@ This is where I keep my code and projects. Feel free to look around and contact 
 In this project, I assisted Outbound Sales teams in Travel Agencies by identifying potential customer leads on social media and providing tailored flight and accommodation options based on their activity on Reddit. Used: Python, ETL Pipeline, SQLite database, spaCy NLP library, web scraping.
 
 - Predicting Wine Quality with ML:
+
 Built an ML classification model using sklearn library that classifies wine into 3 categories based on wine's biological components. Very much class imbalance, but achieved 80% accuracy. 
 
 - Detecting Covid in X-rays images:
