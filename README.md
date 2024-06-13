@@ -4,8 +4,9 @@ Welcome to my GitHub profile :)
 I'm a Big Data and AI master's student at the Universitat de Barcelona. SOON-TO-BE DATA SCIENTIST
 
 
-- 🔭 I’m currently working on Anomaly detection to be applied on financial data from the EDGAR SEC Database.
+- 🔭 I’m currently working on Anomaly detection to be applied to financial data from the EDGAR SEC Database.
 - 🌱 I’m currently learning about Deep Learning with Pytorch and Tensorflow Keras API
+-    Check my Tableau Public repo: https://public.tableau.com/app/profile/jose.maria.trindade/vizzes
 - 📫 How to reach me: trindadezemaria@gmail.com
 - ⚡ Fun fact: I once stuck my head on the garage door.
 - 🤝 Connect with me on LinkedIn www.linkedin.com/in/josé-maria-trindade
