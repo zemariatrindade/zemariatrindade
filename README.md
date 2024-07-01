@@ -18,6 +18,11 @@ This is where I keep my code and projects. Feel free to look around and contact 
 
 👨‍💻 Data Projects I've Made:
 
+- Detecting anomalous financial reports with SEC EDGAR API:
+
+Built an anomaly detection ML model that detects anomalous financial reports reported to the SEC by all of the publicly traded companies in the US. This project was part of my final "thesis" for the Master in Big Data and AI Solutions at University of Barcelona.
+
+
 - Predicting Wine Quality with ML:
 
 Built an ML classification model using sklearn library that classifies wine into 3 categories based on wine's biological components. The dataset contained high class imbalance but still achieved 80% accuracy.
@@ -31,7 +36,6 @@ Built a live-streaming application that extracts live sports content from Reddit
   
 In this project, I assisted Outbound Sales teams in Travel Agencies by identifying potential customer leads on social media and providing tailored flight and accommodation options based on their activity on Reddit. Used: Python, ETL Pipeline, SQLite database, spaCy NLP library, web scraping.
 
- 
 
 - Detecting Covid in X-rays images:
   
