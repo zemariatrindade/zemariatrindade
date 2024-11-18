@@ -1,7 +1,7 @@
 ### Hi there! I'm José Maria 👋
 
 Welcome to my GitHub profile :) 
-I'm a Big Data and AI master's student at the Universitat de Barcelona. SOON-TO-BE DATA SCIENTIST
+I'm a graduate in Big Data and AI solutions from Universitat de Barcelona, working at eDreams ODIGEO as a Data Analyst.
 
 
 - 🔭 I’m currently working on Anomaly detection to be applied to financial data from the EDGAR SEC Database.
